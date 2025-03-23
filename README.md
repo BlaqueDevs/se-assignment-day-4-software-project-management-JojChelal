@@ -12,27 +12,27 @@
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Effective Cost Control in Software Projects can contribute to Project Success in that:
-  >Budget adherence prevents cost overruns that can derail projects financially.
-  >Resource optimization ensures that every cent spent contributes directly to project value.
-  >Early detection of potential overspending allows for corrective measures.
+  > Budget adherence prevents cost overruns that can derail projects financially.
+  > Resource optimization ensures that every cent spent contributes directly to project value.
+  > Early detection of potential overspending allows for corrective measures.
 
 Strategies to Prevent Budget Overruns:
-  >Detailed Budgeting: Develop a thorough budget that includes contingency funds for unexpected issues.
-  >Continuous Tracking: Use financial tracking tools to monitor expenditures in real time.
-  >Regular Reviews: Schedule periodic reviews to compare actual spending versus planned costs.
-  >Scope Management: Avoid “scope creep” by clearly defining and sticking to the project scope.
-  >Vendor Management: Negotiate contracts carefully and monitor third-party services to keep costs in check.
+  > Detailed Budgeting: Develop a thorough budget that includes contingency funds for unexpected issues.
+  > Continuous Tracking: Use financial tracking tools to monitor expenditures in real time.
+  > Regular Reviews: Schedule periodic reviews to compare actual spending versus planned costs.
+  > Scope Management: Avoid “scope creep” by clearly defining and sticking to the project scope.
+  > Vendor Management: Negotiate contracts carefully and monitor third-party services to keep costs in check.
 
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile Methodology;
 -Advantages:
-  >Flexibility: Adapts quickly to changes in requirements.
-  >Incremental Delivery: Offers frequent releases, allowing for early detection of issues.
-  >Customer Collaboration: Involves clients continuously, which can result in a product that better fits user needs.
+  > Flexibility: Adapts quickly to changes in requirements.
+  > Incremental Delivery: Offers frequent releases, allowing for early detection of issues.
+  > Customer Collaboration: Involves clients continuously, which can result in a product that better fits user needs.
 -Disadvantages:
-  >Scope Creep Risk: Without strict controls, frequent changes can lead to uncontrolled growth in project scope.
-  >Less Predictability: Timelines and budgets can be harder to forecast early on.
+  > Scope Creep Risk: Without strict controls, frequent changes can lead to uncontrolled growth in project scope.
+  > Less Predictability: Timelines and budgets can be harder to forecast early on.
 
 Waterfall Methodology:
 -Advantages:
@@ -70,12 +70,41 @@ Importance of Defining Project Scope:
 > Ensures clarity and focus: Clearly delineates what is and isn’t included in the project, helping prevent misunderstandings and scope creep.
 > Stakeholder Alignment: Ensures that all parties have the same expectations regarding deliverables and outcomes.
 
-
+A Work Breakdown Structure is a hierarchical decomposition of the project into smaller, manageable components.
+Its benefits are:
+> Organization: Breaks complex projects into smaller tasks for easier management.
+> Responsibility Assignment: Helps in assigning tasks and identifying dependencies.
+> Progress Tracking: Facilitates monitoring and controlling project progress.
 
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Benefits of a Detailed Project Schedule:
+> Clear Roadmap: Outlines milestones, deadlines, and deliverables, ensuring everyone knows the project timeline.
+> Resource Allocation: Assists in planning and assigning resources effectively.
+> Risk Mitigation: Helps identify potential bottlenecks and allows for proactive adjustments.
+
+Role of Gantt Charts:
+> Visualization: Provides a visual timeline of the project with task durations and dependencies.
+> Progress Monitoring: Enables tracking of progress against the schedule, highlighting any delays or issues.
+> Coordination: Helps coordinate tasks among team members, making it easier to see how delays in one area can affect the overall project.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Core Issues May Include:
+> Operational Inefficiencies: Streamlining business processes that are slow or error-prone.
+> User Pain Points: Addressing specific needs or challenges faced by the target audience, such as poor user experience or lack of integration between systems.
+> Market Gaps: Providing a solution where there is currently no effective product, thereby fulfilling an unmet need.
+
+Significance:
+> Relevance: Ensuring the software addresses real, impactful problems increases its value to users.
+> Adoption: Software that solves significant issues is more likely to be adopted and recommended
+
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+It Helps in Developing an Effective Solution in that:
+> Focused Development: Clearly defined problems enable the team to concentrate on solving the exact pain points rather than building unnecessary features.
+> Prevents Scope Creep: Keeping the problem statement clear helps avoid deviations that could dilute the product’s value.
+> Enhanced Communication: A well-defined problem makes it easier to communicate the purpose and benefits of the software to stakeholders and end users.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
